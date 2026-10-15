@@ -1,0 +1,46 @@
+Season,Week,Name,Judge_Score,Fan_Latent,Elim_Rank,Elim_Pct,Saved_by_Judge_Rank,Saved_by_Judge_Pct
+2,1,Jerry Rice,21.0,1.0,False,False,False,False
+2,2,Jerry Rice,23.0,1.0,False,False,False,False
+2,3,Jerry Rice,19.0,1.0,False,False,False,False
+2,4,Jerry Rice,24.0,1.0,False,False,False,False
+2,5,Jerry Rice,23.0,1.0,False,False,False,False
+2,6,Jerry Rice,23.0,1.0,False,False,False,False
+2,7,Jerry Rice,20.5,1.0,False,False,False,False
+2,8,Jerry Rice,26.666600000000003,1.0,True,True,False,False
+2,9,Jerry Rice,0.0,1.0,False,False,False,False
+2,10,Jerry Rice,0.0,1.0,False,False,False,False
+2,11,Jerry Rice,0.0,1.0,False,False,False,False
+4,1,Billy Ray Cyrus,13.0,0.6170338627200097,False,False,False,False
+4,2,Billy Ray Cyrus,21.0,0.6170338627200097,False,False,False,False
+4,3,Billy Ray Cyrus,21.0,0.6170338627200097,False,False,False,False
+4,4,Billy Ray Cyrus,21.0,0.6170338627200097,False,False,False,False
+4,5,Billy Ray Cyrus,17.0,0.6170338627200097,False,False,False,False
+4,6,Billy Ray Cyrus,21.0,0.6170338627200097,False,False,False,False
+4,7,Billy Ray Cyrus,19.0,0.6170338627200097,False,True,False,False
+4,8,Billy Ray Cyrus,19.0,0.6170338627200097,True,True,False,False
+11,1,Bristol Palin,18.0,1.0,False,False,False,False
+11,2,Bristol Palin,22.0,1.0,False,False,False,False
+11,3,Bristol Palin,19.0,1.0,False,False,False,False
+11,4,Bristol Palin,16.0,1.0,False,False,False,False
+11,5,Bristol Palin,18.0,1.0,False,False,False,False
+11,6,Bristol Palin,27.9998,1.0,False,False,False,False
+11,7,Bristol Palin,32.5,1.0,False,False,False,False
+11,8,Bristol Palin,23.5,1.0,False,False,False,False
+11,9,Bristol Palin,26.5,1.0,False,False,False,False
+11,10,Bristol Palin,25.666600000000003,1.0,True,True,False,False
+11,11,Bristol Palin,0.0,1.0,False,False,False,False
+15,1,Bristol Palin,19.5,0.5172818579717866,False,False,False,False
+15,2,Bristol Palin,18.0,0.5172818579717866,False,True,False,False
+15,3,Bristol Palin,22.5,0.5172818579717866,False,True,False,False
+15,4,Bristol Palin,32.0,0.5172818579717866,True,True,True,True
+27,1,Bobby Bones,20.0,1.0,False,False,False,False
+27,2,Bobby Bones,19.5,1.0,False,False,False,False
+27,3,Bobby Bones,23.0,1.0,False,False,False,False
+27,4,Bobby Bones,20.0,1.0,False,False,False,False
+27,5,Bobby Bones,21.0,1.0,False,False,False,False
+27,6,Bobby Bones,22.0,1.0,False,False,False,False
+27,7,Bobby Bones,26.5,1.0,False,False,False,False
+27,8,Bobby Bones,22.5,1.0,False,False,False,False
+27,9,Bobby Bones,27.0,1.0,True,True,False,False
+27,10,Bobby Bones,0.0,1.0,False,False,False,False
+27,11,Bobby Bones,0.0,1.0,False,False,False,False

@@ -1,0 +1,5 @@
+p_threshold,n_significant,significant_factors
+0.01,2,"Age, Judge Score"
+0.05,2,"Age, Judge Score"
+0.1,2,"Age, Judge Score"
+0.15,2,"Age, Judge Score"
